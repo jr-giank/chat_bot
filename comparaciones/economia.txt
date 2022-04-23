@@ -1,0 +1,5 @@
+dinero
+precio
+pago
+caro
+barato
